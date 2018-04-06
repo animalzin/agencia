@@ -1,0 +1,62 @@
+body {
+    background-color: black
+}
+
+nav {
+    display: flex;
+    padding: 8px;
+    background-image: url("../img/back.png") ;
+}
+
+#logo {
+    width: 60px;
+    height: 60px;
+    padding-right: 800px;
+}
+
+#menu {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+    color: aliceblue;
+    padding: 5px;
+    margin: 5px;
+}
+#menu li {
+    text-align: center;
+    font-size: 25px ;
+    padding: 10px;
+}
+
+.cor{
+    color: white;
+    text-decoration: none;
+}
+
+#banner {
+    padding-left: 30px;
+    width: 1280px;
+}
+
+#serv {
+list-style-type: none;
+
+}
+
+.img {
+    width: 200px;
+    height: 200px;
+}
+
+
+#port {
+    background-color: dimgrey;
+    display: flex;
+    justify-content: space-around;
+}
+
+.tarefas{
+    
+}
+
+
